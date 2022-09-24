@@ -1,0 +1,29 @@
+__________________________________________________________________
+
+Instruction in English.
+
+The simple text calculator uses the Apache Lisence 2.0 license. Later the license will be changed.
+
+In this program, you can calculate two numbers.
+
+The following commands are available for use:
+- '+' - addition
+- '-' - subtraction
+- '*' - multiplication
+- '/' - division
+- 'q' - exit the application
+
+How to use the application? Everything is very simple
+1. Run the .exe file of the calculator.
+2. Use.
+
+To exit the application instantly, enter q in the Sign line.
+
+This manual is written for a specific version of Easy Text Calc v. 0.1 beta (Simple text calculator)
+
+The instruction will change with the subsequent update of the application itself.
+
+
+Note:
+If you find a bug or have questions/ideas for projects, write to eichkust@gmail.com or https://vk.com/eichkust with the heading "I found a bug in the program"/"I have ideas for a project". I will consider your offer of cooperation or try to come up with something.
+__________________________________________________________________
